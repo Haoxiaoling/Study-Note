@@ -4,18 +4,15 @@ This file file serves as your book's preface, a great place to describe your boo
 
 # This is a deme.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 ## This is second ,
 
 ### And third
 
 ```cpp
 cout\</<"Hello world!";
-
 ```
-
-
-
-
 
 ```
 
