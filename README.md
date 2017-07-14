@@ -4,9 +4,7 @@ This file file serves as your book's preface, a great place to describe your boo
 
 # This is a deme.
 
-Alt-This is a deme.
 
-============
 
 ## This is second ,
 
@@ -20,5 +18,5 @@ cout\</<"Hello world!";
 
 ```
 
-
+this is git book \*note\*.
 
