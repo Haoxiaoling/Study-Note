@@ -2,7 +2,7 @@
 
 ![](/assets/import.png)
 
-* *setIndices\(\) = false, setSearchSurface\(\) = false**- this is without a doubt the most used case in PCL, where the user is just feeding in a single PointCloud dataset and expects a certain feature estimated at_all the points in the cloud_.
+* **setIndices\(\) = false, setSearchSurface\(\) = false**- this is without a doubt the most used case in PCL, where the user is just feeding in a single PointCloud dataset and expects a certain feature estimated at_all the points in the cloud_.
 
   Since we do not expect to maintain different implementation copies based on whether a set of indices and/or the search surface is given, whenever indices = false , PCL creates a set of internal indices \(as astd::vector&lt;int&gt;\) that basically point to the entire dataset \(indices=1..N, where N is the number of points in the cloud\).
 
